@@ -1,14 +1,15 @@
-# Lab 1 : Task Squirrels
+# Task Squirrels
 
 Name :  Aaroha Sapkota
 
-ZNumber : Z23692635
 
-This Repo serves as my submission Repo for Lab 1 : Task Squirrels
+This project is a copy of my submission for Lab 1 : Task Squirrels for CodePath IOS 102 Course.
+
 ## Modifications
   Added AppIcon, FAU Logo in Launch Screen, Visit Button to go to the main storyboard.
 
   App also automatically goes to main storyboard after 5 seconds.
+  
 # Mockups
 ## Full Demo
 ![Lab1-Demo1](https://github.com/user-attachments/assets/3a3bc3a6-cdc1-4b0e-a98b-3f7401349155)
