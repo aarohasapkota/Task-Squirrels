@@ -4,6 +4,7 @@ Name :  Aaroha Sapkota
 
 
 This project is a copy of my submission for Lab 1 : Task Squirrels for CodePath IOS 102 Course.
+Used Framworks: UIKit, MapKit, PhotosUI
 
 ## Modifications
   Added AppIcon, FAU Logo in Launch Screen, Visit Button to go to the main storyboard.
